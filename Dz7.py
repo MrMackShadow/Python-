@@ -9,4 +9,4 @@ while run < b:
     run = run + a
     days += 1
 
-print("Вы достигнете требуемых показателей на {} день".format(days))
+print("На {} день спортсмен достигнет результата".format(days))
